@@ -1,0 +1,28 @@
+
+body {
+    background-color: rgb(34, 34, 34);
+    color: rgb(232, 234, 237);
+    font-size: calc(100% - 2px);
+    min-width: 240px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container{
+    display: flex;
+    text-align: center;
+    flex-flow: column;
+    justify-content: center;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.video{
+    display: flex;
+    justify-content: center; 
+}
