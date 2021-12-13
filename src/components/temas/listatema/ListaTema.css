@@ -1,0 +1,7 @@
+.text-decorator-none{
+    text-decoration: none;
+}
+/* crie uma classe bottom-none com display none */
+.bottom-none{
+    display: none !important;;
+}
